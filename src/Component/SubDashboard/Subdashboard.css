@@ -1,0 +1,15 @@
+#subdashboard{
+    width: 100%;
+}
+
+.stats-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.onboarded-piechart-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
